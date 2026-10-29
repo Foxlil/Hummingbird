@@ -1,5 +1,10 @@
 # Hummingbird
+
 A mechanism mimicking the hummingbird movement in flight via rotating gear!
+Based off these awesome designs (not affiliated with any of them): 
+1. https://makezine.com/article/digital-fabrication/machining/watch-the-life-like-motion-of-this-wooden-hummingbird/
+2. https://www.moyustore.com/products/mechanical-3d-metal-hummingbird-automata-kinetic-sculpture-kits?srsltid=AYCX9vJzxbbYNvXiOPjGApaNZJFrLhYD4vWxoQQXPnT89iFn8n1qAzlr
+3. https://www.instructables.com/Hummingbird/
 
 Link to CAD: https://cad.onshape.com/documents/d834a01fe254f19c784e74ae/w/2f6ccce777eaeaf322b7b528/m/dbc1d081e62ff1daa233429f/e/c4ff2474840102e05555c6c7?renderMode=0&uiState=6ae2a3ee88223f158bbf2c9f
 
