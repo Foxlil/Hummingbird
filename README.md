@@ -11,7 +11,9 @@ Print settings should be the default in the slicer.
 
 # Bill of materials
 Glass watch screws and bolts with screw driver (8 screws, 2 nuts)-> $7.99 -> https://a.co/d/00xMulaC
+
 2mm screws (2 screws with 4 mm height) -> $6.99 -> https://a.co/d/043UEMKD
+
 Super glue (1) -> $9.99 -> https://a.co/d/04ECuO9W
 
 # Assembly
