@@ -4,6 +4,8 @@ github: https://github.com/Foxlil/Hummingbird
 description: A flying hummingbird mechanism via a spinning gear!
 created_at: "2026-10-8"
 ---
+**THE JOURNAL IS USED IN PLACE OF LAPSE DUE TO LAPSE BUG WITH DEVLOGS** 
+Thank you :)
 # October 11th: Research and linkage mishaps
 
 There were many variations on how to approach the hummingbird mechanism. Some were either too bulky, or too complicated, or did not fit my needs for "hand-cranked". Eventually I found a linkage that seemed fitting! The combined joints cleverly mimicked the flight of a hummingbird. The issue was adapting this linkage into my own design in Onshape. I tried to figure out how to approach it. At first I used fixed joints----then multiple ball joints---not to mention the angles of the linkages and the structure were all over the place. I learned that the link needed to be connected to the gear via a ball joint, as to maintain flexibility while still translating rotational motion, while the other joints were standard (connected via screws) for consistency. That, alongside angling most of my linkages perpendicularly, made the design process much smoother. 
