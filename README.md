@@ -26,6 +26,7 @@ Super glue (1) -> $9.99 -> https://a.co/d/04ECuO9W
 Holes indicate holes for screws that you can use to connect the parts.
 
 During assembly, everything except the connection in step 8 uses glass watch screws. 
+Step four requires super glue to connect the wing holder to the groove.
 
 
 1.
